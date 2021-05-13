@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+body {
+    background-color: #25a9fc;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.The_Face {
+    margin-top: 120px !important;
+}
+
+.circle1 {
+    border: 1px solid #a6becf;
+    width: 500px;
+    height: 500px;
+    border-radius: 300px;
+    margin-top: 45px;
+    margin-left: 410px;
+    background-color: #a6becf;
+}
+
+.circle2 {
+    border: 1px solid white;
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    margin-top: -380px;
+    margin-left: 510px;
+    background-color: white;
+}
+
+.circle3 {
+    border: 1px solid white;
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    margin-top: -155px;
+    margin-left: 650px;
+    background-color: white;
+}
+
+.circle4 {
+    border: 1px solid #27354a;
+    width: 50px;
+    height: 53px;
+    border-radius: 300px;
+    margin-top: -110px;
+    margin-left: 700px;
+    background-color: #27354a;
+}
+
+.circle5 {
+    border: 1px solid #27354a;
+    width: 50px;
+    height: 53px;
+    border-radius: 300px;
+    margin-top: -55px;
+    margin-left: 560px;
+    background-color: #27354a;
+}
+
+.circle6 {
+    border: 1px solid #be845f;
+    width: 125px;
+    height: 190px;
+    border-radius: 300px;
+    margin-top: 10px;
+    margin-left: 595px;
+    background-color: #be845f;
+}
+
+.circle7 {
+    position: absolute;
+    border: 30px solid #a6becf;
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+    margin-top: -80px;
+    margin-left: 360px;
+    z-index: 1;
+    background-color: #819caf;
+}
+
+.circle8 {
+    position: absolute;
+    border: 30px solid #a6becf;
+    width: 200px;
+    height: 200px;
+    border-radius: 300px;
+    margin-top: -80px;
+    margin-left: -120px;
+    z-index: 1;
+    background-color: #819caf;
+}
+
+a {
+    font-size: 1.5em;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    border: 2px solid white;
+    width: 200px;
+    height: 180px;
+    border-radius: 80px;
+    background-color: white;
+}
+
+a:hover {
+    color: white;
+    border-color: white;
+    background-color: transparent;
+}
+
+#the_phase {
+    font-size: 1.5em;
+}
